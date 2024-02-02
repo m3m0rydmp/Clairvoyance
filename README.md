@@ -11,11 +11,15 @@ This project is a keylogger that I made out of boredom. This was inspired throug
 This is just a basic program about keyloggers with added features. I just want to improve myself in the field of hacking and understand how the techniques or methods used works.
 
 # Features <img src="https://github.com/Resonanc3/Clairvoyance/assets/79844632/5d881271-d70e-4716-ac3d-ca4c42925f4e" width=60px>
+Clairvoyance is a keylogger with added features, it is a collective idea from the internet. You can make a keylogger with just a few lines but it gets so boring.
+So, why not tweak the project like how I would like it. This project currently has the following features:
 * Keylogger - captures keyboard strokes
 * Screenshot - Takes screenshot every minute
 * File Upload - Data files are uploaded to a specific Google Drive
 * Extract Info - Extracts the system information of a computer
 * Unique Termination - Termination of the program requires to press 'esc' key 5 times
+  
+I will add more features in the feature. With my current knowledge I still can't comprehend how to make it advance.
 
 # How It Works <img src="https://github.com/Resonanc3/Clairvoyance/assets/79844632/d5a9648a-3770-4e99-a40c-32c2f351fadb">
 This repository consist of 3 files. 2 files are for the source code, and one file for the application executable </br>
