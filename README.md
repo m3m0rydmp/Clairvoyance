@@ -1,2 +1,2 @@
 # Clairvoyance
-A Keylogger project for my hobby.
+A Keylogger project that I made, just for fun.
