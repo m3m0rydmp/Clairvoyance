@@ -3,6 +3,7 @@
 ![icons8-code-48](https://github.com/Resonanc3/Clairvoyance/assets/79844632/d5a9648a-3770-4e99-a40c-32c2f351fadb)
 ![icons8-feature-100](https://github.com/Resonanc3/Clairvoyance/assets/79844632/5d881271-d70e-4716-ac3d-ca4c42925f4e)
 ![icons8-google-drive-48](https://github.com/Resonanc3/Clairvoyance/assets/79844632/e59bb1d3-37e5-461e-9957-8034244b578f)
+![icons8-upload-48](https://github.com/Resonanc3/Clairvoyance/assets/79844632/8229482f-9ecc-4fd8-84b3-cdb976232a22)
 -->
 
 
@@ -92,6 +93,10 @@ In order for the upload file to work, you need three things and this will be you
 
 Look for the Google Drive Upload Variable in the code, and place the necessary info in it.
 
+# Uploading to Google Drive <img src="https://github.com/Resonanc3/Clairvoyance/assets/79844632/8229482f-9ecc-4fd8-84b3-cdb976232a22">
+When the files are uploaded, it will reflect on the specific Google Drive that you set, based on the Folder ID. You can verify each file to see if it is the correct file uploaded.
+Also, for the screenshot, it is saved in .PNG if you try to view directly from Google Drive. It will display random alphabets, numbers, and symbols that you can't understand. 
+To verify it, you can download the screenshot image and view it on your computer.
 
 #
 I still want to add more features about this project but I still don't know what feature and how to implement it with my current knowledge. Yet, I won't stop exploring and creating in order to improve myself.
